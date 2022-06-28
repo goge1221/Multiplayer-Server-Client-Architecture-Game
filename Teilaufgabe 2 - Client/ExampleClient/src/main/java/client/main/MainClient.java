@@ -1,5 +1,7 @@
 package client.main;
 
+import client.main.HalfMap.HalfMapController;
+
 public class MainClient {
 
 
@@ -13,6 +15,7 @@ public class MainClient {
 		//String serverBaseUrl = args[1];
 		//String gameId = args[2];
 */
+		/*
 		System.out.println("PLAYER 1");
 		Converter converter = new Converter(serverBaseUrl, gameId);
 		converter.createNewGame();
@@ -25,10 +28,13 @@ public class MainClient {
 		converter.getStatus();
 
 		converter.sendMove();
-
+		*/
 	//	converter.getRequest(serverBaseUrl, gameId, player2.getPlayerId(), internalHalfMap2.getHalfMap());
 //		System.out.println("Player 2 sent map");
 
+		HalfMapController halfMapController = new HalfMapController();
+		halfMapController.createHalfMap("uniqueid");
+		halfMapController.getViewUpdates();
 	}
 
 }
