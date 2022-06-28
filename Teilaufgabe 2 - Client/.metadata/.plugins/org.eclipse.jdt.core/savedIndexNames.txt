@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/Users/andreigoje/Desktop/Uni local/Software Engineering 1/SE1_12032793/Source/Teilaufgabe 2 - Client/.metadata/.plugins/org.eclipse.jdt.core
