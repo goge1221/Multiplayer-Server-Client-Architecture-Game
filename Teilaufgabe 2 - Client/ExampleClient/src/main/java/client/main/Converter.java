@@ -1,5 +1,6 @@
 package client.main;
 
+import MessagesBase.MessagesFromClient.HalfMap;
 import client.main.HalfMap.HalfMapController;
 import client.main.Player.PlayerController;
 import org.springframework.http.HttpHeaders;
@@ -72,5 +73,10 @@ public class Converter {
         System.out.println((network.getStatus(playerController.getPlayerID())));
     }
 
+
+    //THIS PART IS STRITLY FOR TESTING AND FINDING THE SOLUTION IN SUMMER
+    public HalfMap getHalfMapForHandler(){
+        return halfMapController.getHalfMap();
+    }
 
 }

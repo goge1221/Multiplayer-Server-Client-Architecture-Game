@@ -15,7 +15,6 @@ public class HalfMapController {
     public void createHalfMap(String uniquePlayerID){
         halfMapCreator.createHalfMapNodeCollection();
         internalHalfMap = new InternalHalfMap(uniquePlayerID ,halfMapCreator.getHalfMapNodeCollection());
-        halfMapView.printMessage("Internal HalfMap was created successfully.");
     }
 
     public HalfMap getHalfMap(){

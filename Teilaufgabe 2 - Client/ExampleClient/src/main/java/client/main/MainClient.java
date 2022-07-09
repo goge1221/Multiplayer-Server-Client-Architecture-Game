@@ -1,5 +1,7 @@
 package client.main;
 
+import client.main.SummerFindTreasure.SearchMapHandler;
+
 public class MainClient {
 
 
@@ -12,13 +14,12 @@ public class MainClient {
 	/*
 		//String serverBaseUrl = args[1];
 		//String gameId = args[2];
-*/
-//		System.out.println("PLAYER 1");
+		System.out.println("PLAYER 1");
 		Converter converter = new Converter(serverBaseUrl, gameId);
 	//	converter.createNewGame();
 //		converter.registerPlayer();
-		converter.createHalfMap();
-		converter.getHalfMapInfos();
+	//	converter.createHalfMap();
+	//	converter.getHalfMapInfos();
 		//converter.sendHalfMap();
 
 		//converter.getWholeMap();
@@ -28,6 +29,18 @@ public class MainClient {
 
 	//	converter.getRequest(serverBaseUrl, gameId, player2.getPlayerId(), internalHalfMap2.getHalfMap());
 //		System.out.println("Player 2 sent map");
+*/
+
+		//Here beginns the testing for the Finder in Summer
+
+
+		Converter converter = new Converter(serverBaseUrl, gameId);
+		converter.createHalfMap();
+		SearchMapHandler searchMapHandler = new SearchMapHandler(converter.getHalfMapForHandler());
+
+		searchMapHandler.printHalfMap();
+
+
 
 	}
 

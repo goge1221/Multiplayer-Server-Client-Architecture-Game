@@ -2,18 +2,22 @@ package client.main.HalfMap;
 
 import MessagesBase.MessagesFromClient.HalfMap;
 import MessagesBase.MessagesFromClient.HalfMapNode;
+import MessagesBase.MessagesFromServer.EFortState;
+import MessagesBase.MessagesFromServer.EPlayerPositionState;
+import MessagesBase.MessagesFromServer.ETreasureState;
+import MessagesBase.MessagesFromServer.FullMapNode;
 
 import java.util.ArrayList;
+import java.util.Collection;
 
 public class HalfMapView {
 
-    private String BLUE_SQUARE = "\uD83D\uDFE6";
-    private String BROWN_SQUARE = "\uD83D\uDFEB";
-    private String GREEN_SQUARE = "\uD83D\uDFE9";
+    private final String BLUE_SQUARE = "\uD83D\uDFE6";
+    private final String BROWN_SQUARE = "\uD83D\uDFEB";
+    private final String GREEN_SQUARE = "\uD83D\uDFE9";
 
-    public void printMessage(String message){
-        System.out.println(message);
-    }
+    private final String CASTLE = "\uD83C\uDFF0";
+
     public void printHalfMap(HalfMap halfMap){
         int x = 0;
         int y = 0;
@@ -32,25 +36,29 @@ public class HalfMapView {
                     //     toPrint += "[x:" + arrayList.get(k).getX() + ", y: " + arrayList.get(k).getY();
                     //   toPrint += ", F:" + arrayList.get(k).isFortPresent() + ", T:" + arrayList.get(k).getTerrain().toString() + "]" + COLOR;
                     //  toPrint += "[" + arrayList.get(k).getTerrain().toString() +  "], ";
-                    switch (arrayList.get(k).getTerrain()){
-                        case Water -> {
-                            toPrint += BLUE_SQUARE;
-                            break;
-                        }
-                        case Grass -> {
-                            toPrint += GREEN_SQUARE;
-                            break;
-                        }
-                        case Mountain -> {
-                            toPrint += BROWN_SQUARE;
-                            break;
-                        }
+                    if(arrayList.get(k).isFortPresent()){
+                        toPrint += CASTLE;
                     }
+
+                    else
+                        switch (arrayList.get(k).getTerrain()){
+                            case Water -> {
+                                toPrint += BLUE_SQUARE;
+                                break;
+                            }
+                            case Grass -> {
+                                toPrint += GREEN_SQUARE;
+                                break;
+                            }
+                            case Mountain -> {
+                                toPrint += BROWN_SQUARE;
+                                break;
+                            }
+                        }
                 }
             }
             ++x;
         }
         System.out.println(toPrint);
     }
-
 }
