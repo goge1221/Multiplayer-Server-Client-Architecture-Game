@@ -50,7 +50,8 @@ public class Converter {
      * This part of the code handles the interactions between the converter and the internally created HalfMap
      */
     public void createHalfMap(){
-        halfMapController.createHalfMap(playerController.getPlayerID());
+        //player.getplayerid()
+        halfMapController.createHalfMap("playerid");
     }
 
     public void getHalfMapInfos(){ halfMapController.getViewUpdates();}

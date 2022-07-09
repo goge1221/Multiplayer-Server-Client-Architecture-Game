@@ -4,6 +4,7 @@ import MessagesBase.MessagesFromClient.ERequestState;
 import MessagesBase.MessagesFromClient.HalfMapNode;
 import MessagesBase.ResponseEnvelope;
 import client.main.FullMap.FullMapController;
+import client.main.PathFinder.PathFinder;
 import client.main.Player.Player;
 import org.springframework.http.HttpMethod;
 import org.springframework.web.reactive.function.BodyInserters;

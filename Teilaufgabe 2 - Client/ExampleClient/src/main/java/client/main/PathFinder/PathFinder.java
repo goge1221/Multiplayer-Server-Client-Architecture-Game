@@ -1,4 +1,4 @@
-package client.main;
+package client.main.PathFinder;
 
 import MessagesBase.MessagesFromClient.EMove;
 import MessagesBase.MessagesFromClient.HalfMapNode;
@@ -6,6 +6,7 @@ import MessagesBase.MessagesFromClient.PlayerMove;
 import MessagesBase.MessagesFromServer.FullMapNode;
 import client.main.FullMap.FullMapController;
 import client.main.Player.Player;
+import client.main.TreasureFinder;
 
 import java.util.ArrayList;
 import java.util.Collection;

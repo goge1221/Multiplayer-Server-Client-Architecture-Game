@@ -1,7 +1,6 @@
 package client.main;
 
 import MessagesBase.MessagesFromClient.EMove;
-import MessagesBase.MessagesFromClient.ETerrain;
 import MessagesBase.MessagesFromClient.HalfMapNode;
 import client.main.FullMap.FullMapController;
 import client.main.Player.Player;
