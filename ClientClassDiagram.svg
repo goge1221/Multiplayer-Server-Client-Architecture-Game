@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="3134.0px" height="2395.0px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g>
+<rect x="0.0px" y="0.0px" width="3134.0px" height="2395.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255);"/>
+<rect x="87.5px" y="1646.5px" width="489.0px" height="21.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="87.5px" y="1667.5px" width="1446.0px" height="555.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="87.5px" y="1645.5px" width="489.0px" height="21.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="87.5px" y="1666.5px" width="1446.0px" height="555.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="86.5px" y="1645.5px" width="489.0px" height="21.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="86.5px" y="1666.5px" width="1446.0px" height="555.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="86.5px" y="1644.5px" width="489.0px" height="21.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="86.5px" y="1665.5px" width="1446.0px" height="555.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="85.5px" y="1644.5px" width="489.0px" height="21.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(89.0,1646.0), rotate(-0.0)" x="0px" y="0px" textLength="51.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   FullMap
+</text>
+<rect x="85.5px" y="1665.5px" width="1446.0px" height="555.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="1618.5px" y="1826.5px" width="303.0px" height="21.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1618.5px" y="1847.5px" width="888.0px" height="348.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1618.5px" y="1825.5px" width="303.0px" height="21.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1618.5px" y="1846.5px" width="888.0px" height="348.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1617.5px" y="1825.5px" width="303.0px" height="21.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1617.5px" y="1846.5px" width="888.0px" height="348.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1617.5px" y="1824.5px" width="303.0px" height="21.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1617.5px" y="1845.5px" width="888.0px" height="348.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1616.5px" y="1824.5px" width="303.0px" height="21.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1620.0,1826.0), rotate(-0.0)" x="0px" y="0px" textLength="77.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   PathFinding
+</text>
+<rect x="1616.5px" y="1845.5px" width="888.0px" height="348.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="1108.5px" y="1112.5px" width="226.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1108.0px" y1="1136.0px" x2="1334.0px" y2="1136.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1108.0px" y1="1176.0px" x2="1334.0px" y2="1176.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1108.5px" y="1111.5px" width="226.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1108.0px" y1="1135.0px" x2="1334.0px" y2="1135.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1108.0px" y1="1175.0px" x2="1334.0px" y2="1175.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1107.5px" y="1111.5px" width="226.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1107.0px" y1="1135.0px" x2="1333.0px" y2="1135.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1107.0px" y1="1175.0px" x2="1333.0px" y2="1175.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1107.5px" y="1110.5px" width="226.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1107.0px" y1="1134.0px" x2="1333.0px" y2="1134.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1107.0px" y1="1174.0px" x2="1333.0px" y2="1174.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1106.5px" y="1110.5px" width="226.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1161.0,1114.0), rotate(-0.0)" x="0px" y="0px" textLength="116.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   HalfMapGenerator
+</text>
+<line x1="1106.0px" y1="1134.0px" x2="1332.0px" y2="1134.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1115.0,1138.0), rotate(-0.0)" x="0px" y="0px" textLength="98.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - halfMapNodes :
+</text>
+<text transform="translate(1115.0,1154.0), rotate(-0.0)" x="0px" y="0px" textLength="128.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Collection&lt;MapNode&gt;
+</text>
+<line x1="1106.0px" y1="1174.0px" x2="1332.0px" y2="1174.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1115.0,1178.0), rotate(-0.0)" x="0px" y="0px" textLength="117.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - generateHalfMap ()
+</text>
+<text transform="translate(1115.0,1194.0), rotate(-0.0)" x="0px" y="0px" textLength="130.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - placeCastleOnMap ()
+</text>
+<text transform="translate(1115.0,1211.0), rotate(-0.0)" x="0px" y="0px" textLength="89.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getHalfMap ()
+</text>
+<rect x="101.5px" y="1764.5px" width="388.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="101.0px" y1="1788.0px" x2="489.0px" y2="1788.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="101.0px" y1="1811.0px" x2="489.0px" y2="1811.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="101.5px" y="1763.5px" width="388.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="101.0px" y1="1787.0px" x2="489.0px" y2="1787.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="101.0px" y1="1810.0px" x2="489.0px" y2="1810.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="100.5px" y="1763.5px" width="388.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="100.0px" y1="1787.0px" x2="488.0px" y2="1787.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="100.0px" y1="1810.0px" x2="488.0px" y2="1810.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="100.5px" y="1762.5px" width="388.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="100.0px" y1="1786.0px" x2="488.0px" y2="1786.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="100.0px" y1="1809.0px" x2="488.0px" y2="1809.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="99.5px" y="1762.5px" width="388.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(252.0,1766.0), rotate(-0.0)" x="0px" y="0px" textLength="83.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   FullMapView
+</text>
+<line x1="99.0px" y1="1786.0px" x2="487.0px" y2="1786.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="99.0px" y1="1809.0px" x2="487.0px" y2="1809.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(109.0,1813.0), rotate(-0.0)" x="0px" y="0px" textLength="343.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + printFullMap (fullMap : Collection&lt;MapNode&gt;, mapForm :
+</text>
+<text transform="translate(109.0,1829.0), rotate(-0.0)" x="0px" y="0px" textLength="68.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   EMapForm)
+</text>
+<text transform="translate(109.0,1845.0), rotate(-0.0)" x="0px" y="0px" textLength="276.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - getFortState (fullMapNode : MapNode) : String
+</text>
+<text transform="translate(109.0,1861.0), rotate(-0.0)" x="0px" y="0px" textLength="302.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - getPlayerState (fullMapNode : MapNode) : String...
+</text>
+<rect x="1112.5px" y="1758.5px" width="293.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1112.0px" y1="1781.0px" x2="1405.0px" y2="1781.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1112.0px" y1="1821.0px" x2="1405.0px" y2="1821.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1112.5px" y="1757.5px" width="293.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1112.0px" y1="1780.0px" x2="1405.0px" y2="1780.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1112.0px" y1="1820.0px" x2="1405.0px" y2="1820.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1111.5px" y="1757.5px" width="293.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1111.0px" y1="1780.0px" x2="1404.0px" y2="1780.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1111.0px" y1="1820.0px" x2="1404.0px" y2="1820.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1111.5px" y="1756.5px" width="293.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1111.0px" y1="1779.0px" x2="1404.0px" y2="1779.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1111.0px" y1="1819.0px" x2="1404.0px" y2="1819.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1110.5px" y="1756.5px" width="293.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1200.0,1759.0), rotate(-0.0)" x="0px" y="0px" textLength="114.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   FullMapController
+</text>
+<line x1="1110.0px" y1="1779.0px" x2="1403.0px" y2="1779.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1120.0,1783.0), rotate(-0.0)" x="0px" y="0px" textLength="177.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - fullMapModel : FullMapModel
+</text>
+<text transform="translate(1120.0,1799.0), rotate(-0.0)" x="0px" y="0px" textLength="163.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - fullMapView : FullMapView
+</text>
+<line x1="1110.0px" y1="1819.0px" x2="1403.0px" y2="1819.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1120.0,1823.0), rotate(-0.0)" x="0px" y="0px" textLength="237.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + updateFullMap (Collection&lt;MapNode&gt;)
+</text>
+<text transform="translate(1120.0,1839.0), rotate(-0.0)" x="0px" y="0px" textLength="140.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + printFullMap (fullMap :
+</text>
+<text transform="translate(1120.0,1856.0), rotate(-0.0)" x="0px" y="0px" textLength="271.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Collection&lt;MapNode&gt;, mapForm : EMapForm)
+</text>
+<text transform="translate(1120.0,1872.0), rotate(-0.0)" x="0px" y="0px" textLength="228.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getFullMap () : Collection&lt;MapNode&gt;
+</text>
+<rect x="900.5px" y="2048.5px" width="226.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="900.0px" y1="2072.0px" x2="1126.0px" y2="2072.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="900.0px" y1="2112.0px" x2="1126.0px" y2="2112.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="900.5px" y="2047.5px" width="226.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="900.0px" y1="2071.0px" x2="1126.0px" y2="2071.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="900.0px" y1="2111.0px" x2="1126.0px" y2="2111.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="899.5px" y="2047.5px" width="226.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="899.0px" y1="2071.0px" x2="1125.0px" y2="2071.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="899.0px" y1="2111.0px" x2="1125.0px" y2="2111.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="899.5px" y="2046.5px" width="226.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="899.0px" y1="2070.0px" x2="1125.0px" y2="2070.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="899.0px" y1="2110.0px" x2="1125.0px" y2="2110.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="898.5px" y="2046.5px" width="226.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(966.0,2050.0), rotate(-0.0)" x="0px" y="0px" textLength="90.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   FullMapModel
+</text>
+<line x1="898.0px" y1="2070.0px" x2="1124.0px" y2="2070.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(907.0,2073.0), rotate(-0.0)" x="0px" y="0px" textLength="189.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - fullMap : Collection&lt;MapNode&gt;
+</text>
+<text transform="translate(907.0,2090.0), rotate(-0.0)" x="0px" y="0px" textLength="139.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - mapForm : EMapForm
+</text>
+<line x1="898.0px" y1="2110.0px" x2="1124.0px" y2="2110.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(907.0,2114.0), rotate(-0.0)" x="0px" y="0px" textLength="173.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getMapForm () : EMapForm
+</text>
+<text transform="translate(907.0,2130.0), rotate(-0.0)" x="0px" y="0px" textLength="96.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getFullMap () :
+</text>
+<text transform="translate(907.0,2146.0), rotate(-0.0)" x="0px" y="0px" textLength="140.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Collection&lt;MapNode&gt;...
+</text>
+<rect x="1594.5px" y="1254.5px" width="312.0px" height="255.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1594.0px" y1="1278.0px" x2="1906.0px" y2="1278.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1594.0px" y1="1383.0px" x2="1906.0px" y2="1383.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1594.5px" y="1253.5px" width="312.0px" height="255.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1594.0px" y1="1277.0px" x2="1906.0px" y2="1277.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1594.0px" y1="1382.0px" x2="1906.0px" y2="1382.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1593.5px" y="1253.5px" width="312.0px" height="255.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1593.0px" y1="1277.0px" x2="1905.0px" y2="1277.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1593.0px" y1="1382.0px" x2="1905.0px" y2="1382.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1593.5px" y="1252.5px" width="312.0px" height="255.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1593.0px" y1="1276.0px" x2="1905.0px" y2="1276.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1593.0px" y1="1381.0px" x2="1905.0px" y2="1381.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1592.5px" y="1252.5px" width="312.0px" height="255.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1728.0,1256.0), rotate(-0.0)" x="0px" y="0px" textLength="41.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Player
+</text>
+<line x1="1592.0px" y1="1276.0px" x2="1904.0px" y2="1276.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1602.0,1280.0), rotate(-0.0)" x="0px" y="0px" textLength="157.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - studentFirstName : String
+</text>
+<text transform="translate(1602.0,1296.0), rotate(-0.0)" x="0px" y="0px" textLength="156.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - studentLastName : String
+</text>
+<text transform="translate(1602.0,1312.0), rotate(-0.0)" x="0px" y="0px" textLength="154.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - studentUAccount : String
+</text>
+<text transform="translate(1602.0,1329.0), rotate(-0.0)" x="0px" y="0px" textLength="132.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - playerPosition : Point
+</text>
+<text transform="translate(1602.0,1345.0), rotate(-0.0)" x="0px" y="0px" textLength="136.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - hasTreasure : boolean
+</text>
+<text transform="translate(1602.0,1361.0), rotate(-0.0)" x="0px" y="0px" textLength="99.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - playerId : String
+</text>
+<line x1="1592.0px" y1="1381.0px" x2="1904.0px" y2="1381.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1602.0,1385.0), rotate(-0.0)" x="0px" y="0px" textLength="137.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getPlayerID () : String
+</text>
+<text transform="translate(1602.0,1401.0), rotate(-0.0)" x="0px" y="0px" textLength="193.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getStudentFirstName () : String
+</text>
+<text transform="translate(1602.0,1417.0), rotate(-0.0)" x="0px" y="0px" textLength="192.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getStudentLastName () : String
+</text>
+<text transform="translate(1602.0,1434.0), rotate(-0.0)" x="0px" y="0px" textLength="168.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getPlayerPosition () : Point
+</text>
+<text transform="translate(1602.0,1450.0), rotate(-0.0)" x="0px" y="0px" textLength="259.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + updatePlayerPosition (newPosition : Point)
+</text>
+<text transform="translate(1602.0,1466.0), rotate(-0.0)" x="0px" y="0px" textLength="189.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + playerHasTreasure () : boolean
+</text>
+<text transform="translate(1602.0,1482.0), rotate(-0.0)" x="0px" y="0px" textLength="114.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + pickUpTreasure ()
+</text>
+<rect x="2695.5px" y="1320.5px" width="283.0px" height="161.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2695.0px" y1="1344.0px" x2="2978.0px" y2="1344.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2695.0px" y1="1368.0px" x2="2978.0px" y2="1368.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2695.5px" y="1319.5px" width="283.0px" height="161.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2695.0px" y1="1343.0px" x2="2978.0px" y2="1343.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2695.0px" y1="1367.0px" x2="2978.0px" y2="1367.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2694.5px" y="1319.5px" width="283.0px" height="161.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2694.0px" y1="1343.0px" x2="2977.0px" y2="1343.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2694.0px" y1="1367.0px" x2="2977.0px" y2="1367.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2694.5px" y="1318.5px" width="283.0px" height="161.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2694.0px" y1="1342.0px" x2="2977.0px" y2="1342.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2694.0px" y1="1366.0px" x2="2977.0px" y2="1366.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2693.5px" y="1318.5px" width="283.0px" height="161.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2790.0,1322.0), rotate(-0.0)" x="0px" y="0px" textLength="89.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   ClientNetwork
+</text>
+<line x1="2693.0px" y1="1342.0px" x2="2976.0px" y2="1342.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2702.0,1346.0), rotate(-0.0)" x="0px" y="0px" textLength="136.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - webClient : WebClient
+</text>
+<line x1="2693.0px" y1="1366.0px" x2="2976.0px" y2="1366.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2702.0,1370.0), rotate(-0.0)" x="0px" y="0px" textLength="188.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + registerPlayer (player : Player)
+</text>
+<text transform="translate(2702.0,1386.0), rotate(-0.0)" x="0px" y="0px" textLength="220.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + sendHalfMap (map : PlayerHalfMap)
+</text>
+<text transform="translate(2702.0,1402.0), rotate(-0.0)" x="0px" y="0px" textLength="163.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + sendMove (move : EMove)
+</text>
+<text transform="translate(2702.0,1418.0), rotate(-0.0)" x="0px" y="0px" textLength="232.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getGameState () : EPlayerGameState
+</text>
+<text transform="translate(2702.0,1435.0), rotate(-0.0)" x="0px" y="0px" textLength="192.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + ClientNetwork (gameId : String)
+</text>
+<text transform="translate(2702.0,1451.0), rotate(-0.0)" x="0px" y="0px" textLength="125.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getMap () : FullMap
+</text>
+<rect x="1320.5px" y="2105.5px" width="123.0px" height="85.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1320.0px" y1="2148.0px" x2="1443.0px" y2="2148.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1320.5px" y="2104.5px" width="123.0px" height="85.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1320.0px" y1="2147.0px" x2="1443.0px" y2="2147.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1319.5px" y="2104.5px" width="123.0px" height="85.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1319.0px" y1="2147.0px" x2="1442.0px" y2="2147.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1319.5px" y="2103.5px" width="123.0px" height="85.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1319.0px" y1="2146.0px" x2="1442.0px" y2="2146.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1318.5px" y="2103.5px" width="123.0px" height="85.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1337.0,2106.0), rotate(-0.0)" x="0px" y="0px" textLength="85.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   «enumeration»
+</text>
+<text transform="translate(1346.0,2126.0), rotate(-0.0)" x="0px" y="0px" textLength="68.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   EMapForm
+</text>
+<line x1="1318.0px" y1="2146.0px" x2="1441.0px" y2="2146.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1322.0,2150.0), rotate(-0.0)" x="0px" y="0px" textLength="70.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + Horizontal
+</text>
+<text transform="translate(1322.0,2166.0), rotate(-0.0)" x="0px" y="0px" textLength="56.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + Vertical
+</text>
+<rect x="1722.5px" y="1897.5px" width="283.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1722.0px" y1="1921.0px" x2="2005.0px" y2="1921.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1722.0px" y1="1961.0px" x2="2005.0px" y2="1961.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1722.5px" y="1896.5px" width="283.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1722.0px" y1="1920.0px" x2="2005.0px" y2="1920.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1722.0px" y1="1960.0px" x2="2005.0px" y2="1960.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1721.5px" y="1896.5px" width="283.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1721.0px" y1="1920.0px" x2="2004.0px" y2="1920.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1721.0px" y1="1960.0px" x2="2004.0px" y2="1960.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1721.5px" y="1895.5px" width="283.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1721.0px" y1="1919.0px" x2="2004.0px" y2="1919.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1721.0px" y1="1959.0px" x2="2004.0px" y2="1959.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1720.5px" y="1895.5px" width="283.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1827.0,1899.0), rotate(-0.0)" x="0px" y="0px" textLength="70.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   PathFinder
+</text>
+<line x1="1720.0px" y1="1919.0px" x2="2003.0px" y2="1919.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1729.0,1923.0), rotate(-0.0)" x="0px" y="0px" textLength="107.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - fullMap : FullMap
+</text>
+<text transform="translate(1729.0,1939.0), rotate(-0.0)" x="0px" y="0px" textLength="132.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - playerPosition : Point
+</text>
+<line x1="1720.0px" y1="1959.0px" x2="2003.0px" y2="1959.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1729.0,1963.0), rotate(-0.0)" x="0px" y="0px" textLength="259.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + updatePlayerPosition (newPosition : Point)
+</text>
+<text transform="translate(1729.0,1979.0), rotate(-0.0)" x="0px" y="0px" textLength="197.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + calculatePath () : ArrayList&lt;Int&gt;
+</text>
+<text transform="translate(1729.0,1995.0), rotate(-0.0)" x="0px" y="0px" textLength="174.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + transformPointsToIndexes ()
+</text>
+<rect x="1863.5px" y="2071.5px" width="189.0px" height="76.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1863.0px" y1="2095.0px" x2="2052.0px" y2="2095.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1863.0px" y1="2119.0px" x2="2052.0px" y2="2119.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1863.5px" y="2070.5px" width="189.0px" height="76.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1863.0px" y1="2094.0px" x2="2052.0px" y2="2094.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1863.0px" y1="2118.0px" x2="2052.0px" y2="2118.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1862.5px" y="2070.5px" width="189.0px" height="76.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1862.0px" y1="2094.0px" x2="2051.0px" y2="2094.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1862.0px" y1="2118.0px" x2="2051.0px" y2="2118.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1862.5px" y="2069.5px" width="189.0px" height="76.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1862.0px" y1="2093.0px" x2="2051.0px" y2="2093.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1862.0px" y1="2117.0px" x2="2051.0px" y2="2117.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1861.5px" y="2069.5px" width="189.0px" height="76.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1916.0,2073.0), rotate(-0.0)" x="0px" y="0px" textLength="80.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   CastleFinder
+</text>
+<line x1="1861.0px" y1="2093.0px" x2="2050.0px" y2="2093.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1871.0,2097.0), rotate(-0.0)" x="0px" y="0px" textLength="170.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - needToVisit : ArrayList&lt;Int&gt;
+</text>
+<line x1="1861.0px" y1="2117.0px" x2="2050.0px" y2="2117.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1871.0,2121.0), rotate(-0.0)" x="0px" y="0px" textLength="163.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getPath () : ArrayList&lt;Int&gt;
+</text>
+<rect x="1646.5px" y="2071.5px" width="189.0px" height="76.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1646.0px" y1="2095.0px" x2="1835.0px" y2="2095.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1646.0px" y1="2119.0px" x2="1835.0px" y2="2119.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1646.5px" y="2070.5px" width="189.0px" height="76.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1646.0px" y1="2094.0px" x2="1835.0px" y2="2094.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1646.0px" y1="2118.0px" x2="1835.0px" y2="2118.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1645.5px" y="2070.5px" width="189.0px" height="76.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1645.0px" y1="2094.0px" x2="1834.0px" y2="2094.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1645.0px" y1="2118.0px" x2="1834.0px" y2="2118.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1645.5px" y="2069.5px" width="189.0px" height="76.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1645.0px" y1="2093.0px" x2="1834.0px" y2="2093.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1645.0px" y1="2117.0px" x2="1834.0px" y2="2117.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1644.5px" y="2069.5px" width="189.0px" height="76.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1690.0,2073.0), rotate(-0.0)" x="0px" y="0px" textLength="97.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   TreasureFinder
+</text>
+<line x1="1644.0px" y1="2093.0px" x2="1833.0px" y2="2093.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1654.0,2097.0), rotate(-0.0)" x="0px" y="0px" textLength="170.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - needToVisit : ArrayList&lt;int&gt;
+</text>
+<line x1="1644.0px" y1="2117.0px" x2="1833.0px" y2="2117.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1654.0,2121.0), rotate(-0.0)" x="0px" y="0px" textLength="163.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getPath () : ArrayList&lt;Int&gt;
+</text>
+<rect x="2114.5px" y="1878.5px" width="312.0px" height="161.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2114.0px" y1="1902.0px" x2="2426.0px" y2="1902.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2114.0px" y1="1991.0px" x2="2426.0px" y2="1991.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2114.5px" y="1877.5px" width="312.0px" height="161.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2114.0px" y1="1901.0px" x2="2426.0px" y2="1901.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2114.0px" y1="1990.0px" x2="2426.0px" y2="1990.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2113.5px" y="1877.5px" width="312.0px" height="161.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2113.0px" y1="1901.0px" x2="2425.0px" y2="1901.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2113.0px" y1="1990.0px" x2="2425.0px" y2="1990.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2113.5px" y="1876.5px" width="312.0px" height="161.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2113.0px" y1="1900.0px" x2="2425.0px" y2="1900.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2113.0px" y1="1989.0px" x2="2425.0px" y2="1989.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2112.5px" y="1876.5px" width="312.0px" height="161.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2202.0,1880.0), rotate(-0.0)" x="0px" y="0px" textLength="133.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   GraphPathCalculator
+</text>
+<line x1="2112.0px" y1="1900.0px" x2="2424.0px" y2="1900.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2121.0,1904.0), rotate(-0.0)" x="0px" y="0px" textLength="85.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - mapSize : Int
+</text>
+<text transform="translate(2121.0,1920.0), rotate(-0.0)" x="0px" y="0px" textLength="134.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - adj[] : LinkedList&lt;Int&gt;
+</text>
+<text transform="translate(2121.0,1936.0), rotate(-0.0)" x="0px" y="0px" textLength="201.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - movesToExecute : ArrayList&lt;Int&gt;
+</text>
+<text transform="translate(2121.0,1953.0), rotate(-0.0)" x="0px" y="0px" textLength="101.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - visited : boolean
+</text>
+<text transform="translate(2121.0,1969.0), rotate(-0.0)" x="0px" y="0px" textLength="116.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - playerPosition : Int
+</text>
+<line x1="2112.0px" y1="1989.0px" x2="2424.0px" y2="1989.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2121.0,1993.0), rotate(-0.0)" x="0px" y="0px" textLength="167.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - addNode (from : Int, to : Int)
+</text>
+<text transform="translate(2121.0,2009.0), rotate(-0.0)" x="0px" y="0px" textLength="268.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + fillGraphWithNodes (nodes : ArrayList&lt;Int&gt; )
+</text>
+<rect x="1703.5px" y="1660.5px" width="321.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1703.0px" y1="1684.0px" x2="2024.0px" y2="1684.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1703.0px" y1="1708.0px" x2="2024.0px" y2="1708.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1703.5px" y="1659.5px" width="321.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1703.0px" y1="1683.0px" x2="2024.0px" y2="1683.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1703.0px" y1="1707.0px" x2="2024.0px" y2="1707.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1702.5px" y="1659.5px" width="321.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1702.0px" y1="1683.0px" x2="2023.0px" y2="1683.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1702.0px" y1="1707.0px" x2="2023.0px" y2="1707.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1702.5px" y="1658.5px" width="321.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1702.0px" y1="1682.0px" x2="2023.0px" y2="1682.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1702.0px" y1="1706.0px" x2="2023.0px" y2="1706.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1701.5px" y="1658.5px" width="321.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1788.0,1662.0), rotate(-0.0)" x="0px" y="0px" textLength="147.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   CoordinateTransformer
+</text>
+<line x1="1701.0px" y1="1682.0px" x2="2022.0px" y2="1682.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1710.0,1686.0), rotate(-0.0)" x="0px" y="0px" textLength="278.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - coordinateTransformer : CoordinateTransformer
+</text>
+<line x1="1701.0px" y1="1706.0px" x2="2022.0px" y2="1706.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1710.0,1710.0), rotate(-0.0)" x="0px" y="0px" textLength="150.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - CoordinateTransformer ()
+</text>
+<text transform="translate(1710.0,1726.0), rotate(-0.0)" x="0px" y="0px" textLength="233.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getInstance () : CoordinateTransformer
+</text>
+<text transform="translate(1710.0,1742.0), rotate(-0.0)" x="0px" y="0px" textLength="292.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + transformPointToIndex (point : Point) : index : Int
+</text>
+<text transform="translate(1710.0,1759.0), rotate(-0.0)" x="0px" y="0px" textLength="292.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + transformIndexToPoint (index : Int) : point : Point
+</text>
+<rect x="2114.5px" y="1540.5px" width="293.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2114.0px" y1="1564.0px" x2="2407.0px" y2="1564.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2114.0px" y1="1653.0px" x2="2407.0px" y2="1653.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2114.5px" y="1539.5px" width="293.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2114.0px" y1="1563.0px" x2="2407.0px" y2="1563.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2114.0px" y1="1652.0px" x2="2407.0px" y2="1652.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2113.5px" y="1539.5px" width="293.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2113.0px" y1="1563.0px" x2="2406.0px" y2="1563.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2113.0px" y1="1652.0px" x2="2406.0px" y2="1652.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2113.5px" y="1538.5px" width="293.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2113.0px" y1="1562.0px" x2="2406.0px" y2="1562.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2113.0px" y1="1651.0px" x2="2406.0px" y2="1651.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2112.5px" y="1538.5px" width="293.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2216.0,1542.0), rotate(-0.0)" x="0px" y="0px" textLength="84.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   MoveHandler
+</text>
+<line x1="2112.0px" y1="1562.0px" x2="2405.0px" y2="1562.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2121.0,1566.0), rotate(-0.0)" x="0px" y="0px" textLength="269.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - allMovesThatNeedToBeMade : ArrayList&lt;Int&gt;
+</text>
+<text transform="translate(2121.0,1582.0), rotate(-0.0)" x="0px" y="0px" textLength="226.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - movesBetweenPoints : ArrayList&lt;Int&gt;
+</text>
+<text transform="translate(2121.0,1598.0), rotate(-0.0)" x="0px" y="0px" textLength="153.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - actualPlayerPosition : Int
+</text>
+<text transform="translate(2121.0,1615.0), rotate(-0.0)" x="0px" y="0px" textLength="123.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - desiredPosition : Int
+</text>
+<text transform="translate(2121.0,1631.0), rotate(-0.0)" x="0px" y="0px" textLength="192.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - visitedPositions : ArrayList&lt;Int&gt;
+</text>
+<line x1="2112.0px" y1="1651.0px" x2="2405.0px" y2="1651.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2121.0,1655.0), rotate(-0.0)" x="0px" y="0px" textLength="183.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getNextMove () : EMoveClient
+</text>
+<rect x="2525.5px" y="1523.5px" width="416.0px" height="170.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2525.0px" y1="1547.0px" x2="2941.0px" y2="1547.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2525.0px" y1="1652.0px" x2="2941.0px" y2="1652.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2525.5px" y="1522.5px" width="416.0px" height="170.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2525.0px" y1="1546.0px" x2="2941.0px" y2="1546.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2525.0px" y1="1651.0px" x2="2941.0px" y2="1651.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2524.5px" y="1522.5px" width="416.0px" height="170.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2524.0px" y1="1546.0px" x2="2940.0px" y2="1546.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2524.0px" y1="1651.0px" x2="2940.0px" y2="1651.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2524.5px" y="1521.5px" width="416.0px" height="170.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2524.0px" y1="1545.0px" x2="2940.0px" y2="1545.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2524.0px" y1="1650.0px" x2="2940.0px" y2="1650.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2523.5px" y="1521.5px" width="416.0px" height="170.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2637.0,1525.0), rotate(-0.0)" x="0px" y="0px" textLength="187.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   CalculatorBetweenTwoPoints
+</text>
+<line x1="2523.0px" y1="1545.0px" x2="2939.0px" y2="1545.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2532.0,1549.0), rotate(-0.0)" x="0px" y="0px" textLength="107.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - startPosition : Int
+</text>
+<text transform="translate(2532.0,1565.0), rotate(-0.0)" x="0px" y="0px" textLength="102.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - endPosition : Int
+</text>
+<text transform="translate(2532.0,1581.0), rotate(-0.0)" x="0px" y="0px" textLength="169.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - directlyConnected : boolean
+</text>
+<text transform="translate(2532.0,1598.0), rotate(-0.0)" x="0px" y="0px" textLength="116.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - actualPosition : Int
+</text>
+<text transform="translate(2532.0,1614.0), rotate(-0.0)" x="0px" y="0px" textLength="196.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - needToVisitFirst : ArrayList&lt;Int&gt;
+</text>
+<text transform="translate(2532.0,1630.0), rotate(-0.0)" x="0px" y="0px" textLength="138.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - visited : ArrayList&lt;Int&gt;
+</text>
+<line x1="2523.0px" y1="1650.0px" x2="2939.0px" y2="1650.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2532.0,1654.0), rotate(-0.0)" x="0px" y="0px" textLength="387.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + calculatePathBetweenPoints (visitedBefore : ArrayList&lt;Int&gt;, start
+</text>
+<text transform="translate(2532.0,1670.0), rotate(-0.0)" x="0px" y="0px" textLength="296.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   : Int, end : Int) : Pair&lt;ArrayList&lt;Int&gt;, ArrayList&lt;Int&gt;
+</text>
+<rect x="2076.5px" y="1306.5px" width="369.0px" height="142.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2076.0px" y1="1330.0px" x2="2445.0px" y2="1330.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2076.0px" y1="1352.0px" x2="2445.0px" y2="1352.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2076.5px" y="1305.5px" width="369.0px" height="142.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2076.0px" y1="1329.0px" x2="2445.0px" y2="1329.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2076.0px" y1="1351.0px" x2="2445.0px" y2="1351.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2075.5px" y="1305.5px" width="369.0px" height="142.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2075.0px" y1="1329.0px" x2="2444.0px" y2="1329.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2075.0px" y1="1351.0px" x2="2444.0px" y2="1351.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2075.5px" y="1304.5px" width="369.0px" height="142.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2075.0px" y1="1328.0px" x2="2444.0px" y2="1328.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2075.0px" y1="1350.0px" x2="2444.0px" y2="1350.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2074.5px" y="1304.5px" width="369.0px" height="142.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2227.0,1308.0), rotate(-0.0)" x="0px" y="0px" textLength="63.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Controller
+</text>
+<line x1="2074.0px" y1="1328.0px" x2="2443.0px" y2="1328.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="2074.0px" y1="1350.0px" x2="2443.0px" y2="1350.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2084.0,1354.0), rotate(-0.0)" x="0px" y="0px" textLength="141.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + registerPlayer (Player)
+</text>
+<text transform="translate(2084.0,1370.0), rotate(-0.0)" x="0px" y="0px" textLength="99.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + sendHalfMap ()
+</text>
+<text transform="translate(2084.0,1387.0), rotate(-0.0)" x="0px" y="0px" textLength="82.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + sendMove ()
+</text>
+<text transform="translate(2084.0,1403.0), rotate(-0.0)" x="0px" y="0px" textLength="67.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getMap ()
+</text>
+<text transform="translate(2084.0,1419.0), rotate(-0.0)" x="0px" y="0px" textLength="108.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getGameState ()
+</text>
+<path d="M 2069.0 1377.0 L 1910.0 1378.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="1917.0px" y1="1374.0px" x2="1906.0px" y2="1378.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="1917.0px" y1="1382.0px" x2="1906.0px" y2="1378.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1921.0,1362.0), rotate(-0.0)" x="0px" y="0px" textLength="7.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   1
+</text>
+<path d="M 2126.0 1298.0 L 2126.0 1172.0 L 1338.0 1172.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2108.0,1281.0), rotate(-0.0)" x="0px" y="0px" textLength="20.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   0..*
+</text>
+<line x1="1346.0px" y1="1168.0px" x2="1334.0px" y2="1172.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="1346.0px" y1="1175.0px" x2="1334.0px" y2="1172.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1349.0,1156.0), rotate(-0.0)" x="0px" y="0px" textLength="7.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   1
+</text>
+<path d="M 2087.0 1451.0 L 1409.0 1755.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="1414.0px" y1="1749.0px" x2="1406.0px" y2="1757.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="1417.0px" y1="1756.0px" x2="1406.0px" y2="1757.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1416.0,1734.0), rotate(-0.0)" x="0px" y="0px" textLength="7.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   1
+</text>
+<path d="M 2448.0 1383.0 L 2687.0 1392.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2449.0,1367.0), rotate(-0.0)" x="0px" y="0px" textLength="7.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   1
+</text>
+<text transform="translate(2667.0,1392.0), rotate(-0.0)" x="0px" y="0px" textLength="20.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   0..*
+</text>
+<path d="M 1929.0 2064.0 L 1904.0 2024.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1918.0,2032.0 1904.0,2024.0 1905.0,2041.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1774.0 2064.0 L 1807.0 2024.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 1803.0,2040.0 1807.0,2024.0 1791.0,2030.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 2411.0 1606.0 L 2517.0 1606.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 2411.0,1606.0 2418.0,1614.0 2426.0,1606.0 2418.0,1599.0 " style="fill:rgb(0,0,0); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 2009.0 1956.0 L 2106.0 1956.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="2099.0px" y1="1960.0px" x2="2110.0px" y2="1956.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="2099.0px" y1="1953.0px" x2="2110.0px" y2="1956.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 2258.0 1451.0 L 2258.0 1533.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="2254.0px" y1="1525.0px" x2="2258.0px" y2="1536.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="2262.0px" y1="1525.0px" x2="2258.0px" y2="1536.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2247.0,1510.0), rotate(-0.0)" x="0px" y="0px" textLength="7.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   1
+</text>
+<path d="M 2175.0 1680.0 L 1937.0 1889.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 2175.0,1680.0 2164.0,1679.0 2163.0,1690.0 2174.0,1691.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1861.0 1889.0 L 1861.0 1787.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<text transform="translate(1865.0,1849.0), rotate(-0.0)" x="0px" y="0px" textLength="35.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   «use»
+</text>
+<polyline points=" 1858.0,1798.0 1861.0,1787.0 1865.0,1798.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="2142.5px" y="2071.5px" width="293.0px" height="95.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2142.0px" y1="2095.0px" x2="2435.0px" y2="2095.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2142.0px" y1="2118.0px" x2="2435.0px" y2="2118.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2142.5px" y="2070.5px" width="293.0px" height="95.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2142.0px" y1="2094.0px" x2="2435.0px" y2="2094.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2142.0px" y1="2117.0px" x2="2435.0px" y2="2117.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2141.5px" y="2070.5px" width="293.0px" height="95.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2141.0px" y1="2094.0px" x2="2434.0px" y2="2094.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2141.0px" y1="2117.0px" x2="2434.0px" y2="2117.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2141.5px" y="2069.5px" width="293.0px" height="95.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2141.0px" y1="2093.0px" x2="2434.0px" y2="2093.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2141.0px" y1="2116.0px" x2="2434.0px" y2="2116.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2140.5px" y="2069.5px" width="293.0px" height="95.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2204.0,2073.0), rotate(-0.0)" x="0px" y="0px" textLength="166.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   TransitionToOtherHalfMap
+</text>
+<line x1="2140.0px" y1="2093.0px" x2="2433.0px" y2="2093.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="2140.0px" y1="2116.0px" x2="2433.0px" y2="2116.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2150.0,2120.0), rotate(-0.0)" x="0px" y="0px" textLength="250.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + getPath (fullMap : Collection&lt;MapNode&gt;,
+</text>
+<text transform="translate(2150.0,2136.0), rotate(-0.0)" x="0px" y="0px" textLength="229.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   mapForm : EMapForm) : ArrayList&lt;int&gt;
+</text>
+<rect x="1070.5px" y="1330.5px" width="302.0px" height="255.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1070.0px" y1="1354.0px" x2="1372.0px" y2="1354.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1070.0px" y1="1376.0px" x2="1372.0px" y2="1376.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1070.5px" y="1329.5px" width="302.0px" height="255.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1070.0px" y1="1353.0px" x2="1372.0px" y2="1353.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="1070.0px" y1="1375.0px" x2="1372.0px" y2="1375.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="1069.5px" y="1329.5px" width="302.0px" height="255.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1069.0px" y1="1353.0px" x2="1371.0px" y2="1353.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1069.0px" y1="1375.0px" x2="1371.0px" y2="1375.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1069.5px" y="1328.5px" width="302.0px" height="255.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1069.0px" y1="1352.0px" x2="1371.0px" y2="1352.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="1069.0px" y1="1374.0px" x2="1371.0px" y2="1374.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="1068.5px" y="1328.5px" width="302.0px" height="255.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1177.0,1332.0), rotate(-0.0)" x="0px" y="0px" textLength="85.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   MapValidator
+</text>
+<line x1="1068.0px" y1="1352.0px" x2="1370.0px" y2="1352.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="1068.0px" y1="1374.0px" x2="1370.0px" y2="1374.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1077.0,1378.0), rotate(-0.0)" x="0px" y="0px" textLength="178.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + validateMap (halfMapNodes :
+</text>
+<text transform="translate(1077.0,1394.0), rotate(-0.0)" x="0px" y="0px" textLength="193.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Collectrion&lt;MapNode&gt;) : boolean
+</text>
+<text transform="translate(1077.0,1411.0), rotate(-0.0)" x="0px" y="0px" textLength="263.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - checkShortEdgesForWater (halfMapNodes :
+</text>
+<text transform="translate(1077.0,1427.0), rotate(-0.0)" x="0px" y="0px" textLength="189.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Collection&lt;MapNode&gt;) : boolean
+</text>
+<text transform="translate(1077.0,1443.0), rotate(-0.0)" x="0px" y="0px" textLength="260.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - checkLongEdgesForWater (halfMapNodes :
+</text>
+<text transform="translate(1077.0,1459.0), rotate(-0.0)" x="0px" y="0px" textLength="189.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Collection&lt;MapNode&gt;) : boolean
+</text>
+<text transform="translate(1077.0,1476.0), rotate(-0.0)" x="0px" y="0px" textLength="187.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - checkForIsles (halfMapNodes :
+</text>
+<text transform="translate(1077.0,1492.0), rotate(-0.0)" x="0px" y="0px" textLength="189.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Collection&lt;MapNode&gt;) : boolean
+</text>
+<text transform="translate(1077.0,1508.0), rotate(-0.0)" x="0px" y="0px" textLength="270.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - checkIfCastlePlacedCorrect (halfMapNodes  :
+</text>
+<text transform="translate(1077.0,1524.0), rotate(-0.0)" x="0px" y="0px" textLength="189.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Collection&lt;MapNode&gt;) : boolean
+</text>
+<text transform="translate(1077.0,1541.0), rotate(-0.0)" x="0px" y="0px" textLength="249.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + countTypesOfElements (halfMapNodes  :
+</text>
+<text transform="translate(1077.0,1557.0), rotate(-0.0)" x="0px" y="0px" textLength="189.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Collection&lt;MapNode&gt;) : boolean
+</text>
+<rect x="2095.5px" y="952.5px" width="331.0px" height="170.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2095.0px" y1="976.0px" x2="2426.0px" y2="976.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2095.0px" y1="998.0px" x2="2426.0px" y2="998.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2095.5px" y="951.5px" width="331.0px" height="170.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2095.0px" y1="975.0px" x2="2426.0px" y2="975.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2095.0px" y1="997.0px" x2="2426.0px" y2="997.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2094.5px" y="951.5px" width="331.0px" height="170.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2094.0px" y1="975.0px" x2="2425.0px" y2="975.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2094.0px" y1="997.0px" x2="2425.0px" y2="997.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2094.5px" y="950.5px" width="331.0px" height="170.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2094.0px" y1="974.0px" x2="2425.0px" y2="974.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2094.0px" y1="996.0px" x2="2425.0px" y2="996.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2093.5px" y="950.5px" width="331.0px" height="170.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2227.0,954.0), rotate(-0.0)" x="0px" y="0px" textLength="62.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Converter
+</text>
+<line x1="2093.0px" y1="974.0px" x2="2424.0px" y2="974.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="2093.0px" y1="996.0px" x2="2424.0px" y2="996.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2103.0,1000.0), rotate(-0.0)" x="0px" y="0px" textLength="190.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + to (Player) : PlayerRegistration
+</text>
+<text transform="translate(2103.0,1016.0), rotate(-0.0)" x="0px" y="0px" textLength="259.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + to (Collection&lt;MapNode&gt;) : PlayerHalfMap
+</text>
+<text transform="translate(2103.0,1033.0), rotate(-0.0)" x="0px" y="0px" textLength="212.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - to (MapNode) : PlayerHalfMapNode
+</text>
+<text transform="translate(2103.0,1049.0), rotate(-0.0)" x="0px" y="0px" textLength="266.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + toMap (GameState) : Collection&lt;MapNode&gt;
+</text>
+<text transform="translate(2103.0,1065.0), rotate(-0.0)" x="0px" y="0px" textLength="174.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - to (FullMapNode) : MapNode
+</text>
+<text transform="translate(2103.0,1081.0), rotate(-0.0)" x="0px" y="0px" textLength="304.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + to (EPlayerGameState) : EPlayerGameStateClient
+</text>
+<text transform="translate(2103.0,1098.0), rotate(-0.0)" x="0px" y="0px" textLength="158.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + to (EMoveClient) : EMove
+</text>
+<rect x="559.5px" y="1311.5px" width="189.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="559.0px" y1="1355.0px" x2="748.0px" y2="1355.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="559.5px" y="1310.5px" width="189.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="559.0px" y1="1354.0px" x2="748.0px" y2="1354.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="558.5px" y="1310.5px" width="189.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="558.0px" y1="1354.0px" x2="747.0px" y2="1354.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="558.5px" y="1309.5px" width="189.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="558.0px" y1="1353.0px" x2="747.0px" y2="1353.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="557.5px" y="1309.5px" width="189.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(610.0,1313.0), rotate(-0.0)" x="0px" y="0px" textLength="85.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   «enumeration»
+</text>
+<text transform="translate(610.0,1333.0), rotate(-0.0)" x="0px" y="0px" textLength="85.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   ETerrainType
+</text>
+<line x1="557.0px" y1="1353.0px" x2="746.0px" y2="1353.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(561.0,1356.0), rotate(-0.0)" x="0px" y="0px" textLength="47.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + Water
+</text>
+<text transform="translate(561.0,1373.0), rotate(-0.0)" x="0px" y="0px" textLength="65.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + Mountain
+</text>
+<text transform="translate(561.0,1389.0), rotate(-0.0)" x="0px" y="0px" textLength="40.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + Gras
+</text>
+<rect x="238.5px" y="1126.5px" width="189.0px" height="114.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="238.0px" y1="1170.0px" x2="427.0px" y2="1170.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="238.5px" y="1125.5px" width="189.0px" height="114.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="238.0px" y1="1169.0px" x2="427.0px" y2="1169.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="237.5px" y="1125.5px" width="189.0px" height="114.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="237.0px" y1="1169.0px" x2="426.0px" y2="1169.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="237.5px" y="1124.5px" width="189.0px" height="114.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="237.0px" y1="1168.0px" x2="426.0px" y2="1168.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="236.5px" y="1124.5px" width="189.0px" height="114.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(288.0,1128.0), rotate(-0.0)" x="0px" y="0px" textLength="85.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   «enumeration»
+</text>
+<text transform="translate(290.0,1148.0), rotate(-0.0)" x="0px" y="0px" textLength="82.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   EPlayerState
+</text>
+<line x1="236.0px" y1="1168.0px" x2="425.0px" y2="1168.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(240.0,1172.0), rotate(-0.0)" x="0px" y="0px" textLength="110.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + NoPlayerPresent
+</text>
+<text transform="translate(240.0,1188.0), rotate(-0.0)" x="0px" y="0px" textLength="135.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + EnemyPlayerPresent
+</text>
+<text transform="translate(240.0,1205.0), rotate(-0.0)" x="0px" y="0px" textLength="112.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + MyPlayerPresent
+</text>
+<text transform="translate(240.0,1221.0), rotate(-0.0)" x="0px" y="0px" textLength="121.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + BothPlayerPresent
+</text>
+<rect x="460.5px" y="1079.5px" width="388.0px" height="189.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="460.0px" y1="1103.0px" x2="848.0px" y2="1103.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="460.0px" y1="1192.0px" x2="848.0px" y2="1192.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="460.5px" y="1078.5px" width="388.0px" height="189.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="460.0px" y1="1102.0px" x2="848.0px" y2="1102.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="460.0px" y1="1191.0px" x2="848.0px" y2="1191.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="459.5px" y="1078.5px" width="388.0px" height="189.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="459.0px" y1="1102.0px" x2="847.0px" y2="1102.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="459.0px" y1="1191.0px" x2="847.0px" y2="1191.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="459.5px" y="1077.5px" width="388.0px" height="189.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="459.0px" y1="1101.0px" x2="847.0px" y2="1101.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="459.0px" y1="1190.0px" x2="847.0px" y2="1190.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="458.5px" y="1077.5px" width="388.0px" height="189.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(622.0,1081.0), rotate(-0.0)" x="0px" y="0px" textLength="60.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   MapNode
+</text>
+<line x1="458.0px" y1="1101.0px" x2="846.0px" y2="1101.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(468.0,1105.0), rotate(-0.0)" x="0px" y="0px" textLength="117.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - coordinates : Point
+</text>
+<text transform="translate(468.0,1121.0), rotate(-0.0)" x="0px" y="0px" textLength="163.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - playerState : EPlayerState
+</text>
+<text transform="translate(468.0,1137.0), rotate(-0.0)" x="0px" y="0px" textLength="157.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - treasurePresent : boolean
+</text>
+<text transform="translate(468.0,1154.0), rotate(-0.0)" x="0px" y="0px" textLength="145.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - castlePresent : boolean
+</text>
+<text transform="translate(468.0,1170.0), rotate(-0.0)" x="0px" y="0px" textLength="160.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - terrainType : ETerrainType
+</text>
+<line x1="458.0px" y1="1190.0px" x2="846.0px" y2="1190.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(468.0,1194.0), rotate(-0.0)" x="0px" y="0px" textLength="351.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + MapNode (coordinates : Point, playerState : EPlayerState,
+</text>
+<text transform="translate(468.0,1210.0), rotate(-0.0)" x="0px" y="0px" textLength="298.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   treasurePresent : boolean, castlePresent : boolean,
+</text>
+<text transform="translate(468.0,1226.0), rotate(-0.0)" x="0px" y="0px" textLength="156.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   terrainType : ETerrainType)
+</text>
+<text transform="translate(468.0,1242.0), rotate(-0.0)" x="0px" y="0px" textLength="348.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + MapNode (coordinates : Point, terrainType : ETerrainType)
+</text>
+<path d="M 453.0 1178.0 L 431.0 1178.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<polyline points=" 442.0,1181.0 431.0,1178.0 442.0,1174.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 652.0 1272.0 L 652.0 1303.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<polyline points=" 656.0,1292.0 652.0,1303.0 648.0,1292.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1011.0 2174.0 L 1011.0 2183.0 L 1313.0 2183.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<polyline points=" 1301.0,2179.0 1313.0,2183.0 1301.0,2186.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1219.0 1239.0 L 1219.0 1322.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1217.0,1241.0), rotate(-0.0)" x="0px" y="0px" textLength="20.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   0..*
+</text>
+<text transform="translate(1208.0,1311.0), rotate(-0.0)" x="0px" y="0px" textLength="7.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   1
+</text>
+<path d="M 1100.0 1172.0 L 852.0 1172.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1093.0,1172.0), rotate(-0.0)" x="0px" y="0px" textLength="7.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   1
+</text>
+<text transform="translate(852.0,1156.0), rotate(-0.0)" x="0px" y="0px" textLength="20.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   1..*
+</text>
+<path d="M 1257.0 1897.0 L 1257.0 2107.0 L 1130.0 2107.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="1138.0px" y1="2103.0px" x2="1126.0px" y2="2107.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="1138.0px" y1="2111.0px" x2="1126.0px" y2="2107.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1105.0 1824.0 L 1017.0 1824.0 L 1005.0 1824.0 L 492.0 1824.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="163.5px" y="1934.5px" width="264.0px" height="86.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="163.0px" y1="1975.0px" x2="427.0px" y2="1975.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="163.0px" y1="1997.0px" x2="427.0px" y2="1997.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="163.5px" y="1933.5px" width="264.0px" height="86.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="163.0px" y1="1974.0px" x2="427.0px" y2="1974.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="163.0px" y1="1996.0px" x2="427.0px" y2="1996.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="162.5px" y="1933.5px" width="264.0px" height="86.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="162.0px" y1="1974.0px" x2="426.0px" y2="1974.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="162.0px" y1="1996.0px" x2="426.0px" y2="1996.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="162.5px" y="1932.5px" width="264.0px" height="86.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="162.0px" y1="1973.0px" x2="426.0px" y2="1973.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="162.0px" y1="1995.0px" x2="426.0px" y2="1995.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="161.5px" y="1932.5px" width="264.0px" height="86.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(249.0,1936.0), rotate(-0.0)" x="0px" y="0px" textLength="88.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   &lt;&lt;Interface&gt;&gt;
+</text>
+<text transform="translate(212.0,1953.0), rotate(-0.0)" x="0px" y="0px" textLength="162.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   PropertyChangedListener
+</text>
+<line x1="161.0px" y1="1973.0px" x2="425.0px" y2="1973.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="161.0px" y1="1995.0px" x2="425.0px" y2="1995.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(170.0,1999.0), rotate(-0.0)" x="0px" y="0px" textLength="240.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + propertyChange (PropertyChangeEvent)
+</text>
+<rect x="701.5px" y="1868.5px" width="227.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="701.0px" y1="1892.0px" x2="928.0px" y2="1892.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="701.0px" y1="1915.0px" x2="928.0px" y2="1915.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="701.5px" y="1867.5px" width="227.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="701.0px" y1="1891.0px" x2="928.0px" y2="1891.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="701.0px" y1="1914.0px" x2="928.0px" y2="1914.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="700.5px" y="1867.5px" width="227.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="700.0px" y1="1891.0px" x2="927.0px" y2="1891.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="700.0px" y1="1914.0px" x2="927.0px" y2="1914.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="700.5px" y="1866.5px" width="227.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="700.0px" y1="1890.0px" x2="927.0px" y2="1890.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="700.0px" y1="1913.0px" x2="927.0px" y2="1913.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="699.5px" y="1866.5px" width="227.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(736.0,1870.0), rotate(-0.0)" x="0px" y="0px" textLength="153.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   PropertyChangeSupport
+</text>
+<line x1="699.0px" y1="1890.0px" x2="926.0px" y2="1890.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="699.0px" y1="1913.0px" x2="926.0px" y2="1913.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(709.0,1917.0), rotate(-0.0)" x="0px" y="0px" textLength="191.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + addPropertyChangedListener ()
+</text>
+<text transform="translate(709.0,1933.0), rotate(-0.0)" x="0px" y="0px" textLength="204.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + removePropertyChangeListener ()
+</text>
+<text transform="translate(709.0,1949.0), rotate(-0.0)" x="0px" y="0px" textLength="134.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + firePropertyChange ()
+</text>
+<rect x="508.5px" y="2057.5px" width="236.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="508.0px" y1="2081.0px" x2="744.0px" y2="2081.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="508.0px" y1="2104.0px" x2="744.0px" y2="2104.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="508.5px" y="2056.5px" width="236.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="508.0px" y1="2080.0px" x2="744.0px" y2="2080.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="508.0px" y1="2103.0px" x2="744.0px" y2="2103.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="507.5px" y="2056.5px" width="236.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="507.0px" y1="2080.0px" x2="743.0px" y2="2080.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="507.0px" y1="2103.0px" x2="743.0px" y2="2103.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="507.5px" y="2055.5px" width="236.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="507.0px" y1="2079.0px" x2="743.0px" y2="2079.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="507.0px" y1="2102.0px" x2="743.0px" y2="2102.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="506.5px" y="2055.5px" width="236.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(577.0,2059.0), rotate(-0.0)" x="0px" y="0px" textLength="94.0px"
+ style="font-family:Arial; font-style:italic;font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Abstract Model
+</text>
+<line x1="506.0px" y1="2079.0px" x2="742.0px" y2="2079.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="506.0px" y1="2102.0px" x2="742.0px" y2="2102.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(515.0,2106.0), rotate(-0.0)" x="0px" y="0px" textLength="191.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + addPropertyChangedListener ()
+</text>
+<text transform="translate(515.0,2122.0), rotate(-0.0)" x="0px" y="0px" textLength="211.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + removePropertyChangedListener ()
+</text>
+<text transform="translate(515.0,2138.0), rotate(-0.0)" x="0px" y="0px" textLength="140.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   # firePropertyChanged ()
+</text>
+<path d="M 892.0 2107.0 L 748.0 2107.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 763.0,2100.0 748.0,2107.0 763.0,2115.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 293.0 1891.0 L 293.0 1927.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:2 3; stroke-width:1.0px;"/>
+<polygon points=" 285.0,1912.0 293.0,1927.0 300.0,1912.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 681.0 2050.0 L 755.0 1976.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<polygon points=" 681.0,2050.0 692.0,2050.0 692.0,2039.0 681.0,2039.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(722.0,1997.0), rotate(-0.0)" x="0px" y="0px" textLength="49.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   delegate
+</text>
+<path d="M 694.0 1897.0 L 492.0 1860.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<text transform="translate(597.0,1862.0), rotate(-0.0)" x="0px" y="0px" textLength="44.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   «event»
+</text>
+<polyline points=" 503.0,1866.0 492.0,1860.0 504.0,1858.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="182.5px" y="2067.5px" width="226.0px" height="85.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="182.0px" y1="2091.0px" x2="408.0px" y2="2091.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="182.0px" y1="2113.0px" x2="408.0px" y2="2113.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="182.5px" y="2066.5px" width="226.0px" height="85.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="182.0px" y1="2090.0px" x2="408.0px" y2="2090.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="182.0px" y1="2112.0px" x2="408.0px" y2="2112.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="181.5px" y="2066.5px" width="226.0px" height="85.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="181.0px" y1="2090.0px" x2="407.0px" y2="2090.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="181.0px" y1="2112.0px" x2="407.0px" y2="2112.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="181.5px" y="2065.5px" width="226.0px" height="85.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="181.0px" y1="2089.0px" x2="407.0px" y2="2089.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="181.0px" y1="2111.0px" x2="407.0px" y2="2111.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="180.5px" y="2065.5px" width="226.0px" height="85.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(196.0,2069.0), rotate(-0.0)" x="0px" y="0px" textLength="195.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   &lt;&lt;Interface&gt;&gt; PropertyChange
+</text>
+<line x1="180.0px" y1="2089.0px" x2="406.0px" y2="2089.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="180.0px" y1="2111.0px" x2="406.0px" y2="2111.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(189.0,2115.0), rotate(-0.0)" x="0px" y="0px" textLength="184.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + addPropertyChangeListener ()
+</text>
+<text transform="translate(189.0,2131.0), rotate(-0.0)" x="0px" y="0px" textLength="204.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + removePropertyChangeListener ()
+</text>
+<path d="M 500.0 2107.0 L 412.0 2107.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:2 3; stroke-width:1.0px;"/>
+<polygon points=" 427.0,2100.0 412.0,2107.0 427.0,2115.0 " style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 1011.0 2040.0 L 1011.0 1829.0 C 1008.0 1829.0 1005.0 1827.0 1005.0 1824.0 1005.0 1821.0 1008.0 1818.0 1011.0 1818.0 L 1011.0 1361.0 L 842.0 1272.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(1000.0,2029.0), rotate(-0.0)" x="0px" y="0px" textLength="7.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   1
+</text>
+<text transform="translate(845.0,1262.0), rotate(-0.0)" x="0px" y="0px" textLength="20.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   1..*
+</text>
+<rect x="2582.5px" y="980.5px" width="189.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2582.0px" y1="1024.0px" x2="2771.0px" y2="1024.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2582.5px" y="979.5px" width="189.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2582.0px" y1="1023.0px" x2="2771.0px" y2="1023.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2581.5px" y="979.5px" width="189.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2581.0px" y1="1023.0px" x2="2770.0px" y2="1023.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2581.5px" y="978.5px" width="189.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2581.0px" y1="1022.0px" x2="2770.0px" y2="1022.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2580.5px" y="978.5px" width="189.0px" height="123.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2632.0,982.0), rotate(-0.0)" x="0px" y="0px" textLength="85.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   «enumeration»
+</text>
+<text transform="translate(2600.0,1002.0), rotate(-0.0)" x="0px" y="0px" textLength="149.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   PlayerGameStateClient
+</text>
+<line x1="2580.0px" y1="1022.0px" x2="2769.0px" y2="1022.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2583.0,1026.0), rotate(-0.0)" x="0px" y="0px" textLength="53.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + canAct
+</text>
+<text transform="translate(2583.0,1042.0), rotate(-0.0)" x="0px" y="0px" textLength="68.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + mustWait
+</text>
+<text transform="translate(2583.0,1058.0), rotate(-0.0)" x="0px" y="0px" textLength="37.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + Lost
+</text>
+<text transform="translate(2583.0,1075.0), rotate(-0.0)" x="0px" y="0px" textLength="39.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + Won
+</text>
+<path d="M 2429.0 1037.0 L 2574.0 1038.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<polyline points=" 2563.0,1034.0 2574.0,1038.0 2563.0,1042.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 2106.0 1650.0 L 2028.0 1672.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<polyline points=" 2040.0,1672.0 2028.0,1672.0 2038.0,1665.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 2258.0 1126.0 L 2258.0 1298.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2263.0,1121.0), rotate(-0.0)" x="0px" y="0px" textLength="7.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   1
+</text>
+<text transform="translate(2241.0,1281.0), rotate(-0.0)" x="0px" y="0px" textLength="20.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   0..*
+</text>
+<path d="M 2009.0 2012.0 L 2146.0 2064.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="2138.0px" y1="2064.0px" x2="2150.0px" y2="2065.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="2141.0px" y1="2058.0px" x2="2150.0px" y2="2065.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="2440.5px" y="1125.5px" width="189.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2440.0px" y1="1148.0px" x2="2629.0px" y2="1148.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2440.0px" y1="1171.0px" x2="2629.0px" y2="1171.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2440.5px" y="1124.5px" width="189.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2440.0px" y1="1147.0px" x2="2629.0px" y2="1147.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2440.0px" y1="1170.0px" x2="2629.0px" y2="1170.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2439.5px" y="1124.5px" width="189.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2439.0px" y1="1147.0px" x2="2628.0px" y2="1147.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2439.0px" y1="1170.0px" x2="2628.0px" y2="1170.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2439.5px" y="1123.5px" width="189.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2439.0px" y1="1146.0px" x2="2628.0px" y2="1146.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2439.0px" y1="1169.0px" x2="2628.0px" y2="1169.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2438.5px" y="1123.5px" width="189.0px" height="136.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2517.0,1126.0), rotate(-0.0)" x="0px" y="0px" textLength="31.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Main
+</text>
+<line x1="2438.0px" y1="1146.0px" x2="2627.0px" y2="1146.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="2438.0px" y1="1169.0px" x2="2627.0px" y2="1169.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2447.0,1173.0), rotate(-0.0)" x="0px" y="0px" textLength="131.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + main (args[] : String)
+</text>
+<path d="M 2432.0 1258.0 L 2372.0 1298.0" style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2419.0,1262.0), rotate(-0.0)" x="0px" y="0px" textLength="20.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   0..*
+</text>
+<text transform="translate(2367.0,1282.0), rotate(-0.0)" x="0px" y="0px" textLength="7.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   1
+</text>
+<rect x="2804.5px" y="1160.5px" width="330.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2804.0px" y1="1183.0px" x2="3134.0px" y2="1183.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2804.0px" y1="1206.0px" x2="3134.0px" y2="1206.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2804.5px" y="1159.5px" width="330.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2804.0px" y1="1182.0px" x2="3134.0px" y2="1182.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2804.0px" y1="1205.0px" x2="3134.0px" y2="1205.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2803.5px" y="1159.5px" width="330.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2803.0px" y1="1182.0px" x2="3133.0px" y2="1182.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2803.0px" y1="1205.0px" x2="3133.0px" y2="1205.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2803.5px" y="1158.5px" width="330.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2803.0px" y1="1181.0px" x2="3133.0px" y2="1181.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2803.0px" y1="1204.0px" x2="3133.0px" y2="1204.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2802.5px" y="1158.5px" width="330.0px" height="104.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2945.0,1161.0), rotate(-0.0)" x="0px" y="0px" textLength="45.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   Logger
+</text>
+<line x1="2802.0px" y1="1181.0px" x2="3132.0px" y2="1181.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<line x1="2802.0px" y1="1204.0px" x2="3132.0px" y2="1204.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2811.0,1208.0), rotate(-0.0)" x="0px" y="0px" textLength="59.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   - Logger ()
+</text>
+<text transform="translate(2811.0,1224.0), rotate(-0.0)" x="0px" y="0px" textLength="255.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + printErrorMessage (errorMessage : String)
+</text>
+<text transform="translate(2811.0,1240.0), rotate(-0.0)" x="0px" y="0px" textLength="301.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + printSuccessMessage (successMessage : String)
+</text>
+<path d="M 2448.0 1330.0 L 2796.0 1249.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<polyline points=" 2784.0,1248.0 2796.0,1249.0 2786.0,1256.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<path d="M 2895.0 1313.0 L 2926.0 1267.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<polyline points=" 2917.0,1274.0 2926.0,1267.0 2923.0,1279.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<rect x="2582.5px" y="1776.5px" width="189.0px" height="114.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2582.0px" y1="1820.0px" x2="2771.0px" y2="1820.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2582.5px" y="1775.5px" width="189.0px" height="114.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<line x1="2582.0px" y1="1819.0px" x2="2771.0px" y2="1819.0px" style="stroke:rgb(219,219,219); stroke-width:1.0px;"/>
+<rect x="2581.5px" y="1775.5px" width="189.0px" height="114.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2581.0px" y1="1819.0px" x2="2770.0px" y2="1819.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2581.5px" y="1774.5px" width="189.0px" height="114.0px" rx="0.0px" ry="0.0px" style="fill:none; stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<line x1="2581.0px" y1="1818.0px" x2="2770.0px" y2="1818.0px" style="stroke:rgb(169,169,169); stroke-width:1.0px;"/>
+<rect x="2580.5px" y="1774.5px" width="189.0px" height="114.0px" rx="0.0px" ry="0.0px" style="fill:rgb(255,255,255); stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2632.0,1778.0), rotate(-0.0)" x="0px" y="0px" textLength="85.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   «enumeration»
+</text>
+<text transform="translate(2635.0,1798.0), rotate(-0.0)" x="0px" y="0px" textLength="79.0px"
+ style="font-family:Arial; font-size:13.0px; font-weight:bold;fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   EMoveClient
+</text>
+<line x1="2580.0px" y1="1818.0px" x2="2769.0px" y2="1818.0px" style="stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+<text transform="translate(2583.0,1822.0), rotate(-0.0)" x="0px" y="0px" textLength="44.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + Down
+</text>
+<text transform="translate(2583.0,1838.0), rotate(-0.0)" x="0px" y="0px" textLength="28.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + Up
+</text>
+<text transform="translate(2583.0,1855.0), rotate(-0.0)" x="0px" y="0px" textLength="33.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + Left
+</text>
+<text transform="translate(2583.0,1871.0), rotate(-0.0)" x="0px" y="0px" textLength="42.0px"
+ style="font-family:Arial; font-size:13.0px; fill:rgb(0,0,0); stroke:none; baseline-shift:-13.0px; ">
+   + Right
+</text>
+<path d="M 2395.0 1680.0 L 2574.0 1777.0" style="fill:none; stroke:rgb(0,0,0); stroke-dasharray:5 3; stroke-width:1.0px;"/>
+<polyline points=" 2566.0,1768.0 2574.0,1777.0 2562.0,1775.0 " style="fill:none; stroke:rgb(0,0,0); stroke-width:1.0px;"/>
+</g>
+</svg>
