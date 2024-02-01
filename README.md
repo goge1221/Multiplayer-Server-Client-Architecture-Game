@@ -20,16 +20,17 @@ The progression of the course project was methodically organized into three main
 #### **Phase 2: Client Side Development**
 
 - **Launched the client development phase**, using an online server provided by the teacher for testing all different requirements and the performance of our AI in different games (unique games).
-- **Implemented a Command Line Interface (CLI)** to see the different stages the game is in like for e.g. generating phase, treasure finding phase, enemy base search phase as well as to provide a visual representation of the games map player moves. This is an example visualizer of the map:
+- **Implemented a Command Line Interface (CLI)** to see the different stages the game is in like for e.g. generating phase, treasure finding phase, enemy base search phase as well as to provide a visual representation of the games map player moves. 
+
   ![416000890_864700935654987_2198489879840244406_n](https://github.com/goge1221/Client-Server-Project/assets/75140192/1ec149b5-ca20-4a9f-9cfc-ae58f26536d7)
 - **Integrated RESTful communication protocols**, for the sending and receiving of the map and players moves as well as game statuses, in combination with a Converter that translates the received messages into internal used structures.
-- **Formulated an algorithm for generating valid game maps** that meet different criterias such as terrain diversity, ensuring that each game map is unique and meets the game's requirements. The map was in fact a 2D game map using different coodrinates for all the fields. 
+- **Formulated an algorithm for generating valid game maps** that meet different criterias such as terrain diversity, ensuring that each game map is unique and meets the game's requirements. The map was in fact a 2D game map using different coodrinates for all the fields.
 - **Adopted the Model-View-Controller (MVC) design pattern** for better code organization and maintenance, separating concerns to enhance the scalability and maintainability of the codebase, the MVC pattern was used to update the Map automatically and take decisions based on the informations stored.
-- **Developed an AI capable of navigation**, which was divided in two main parts: treasure finder and enemy castle finder, taking decisions based on the phase the player is currently in. 
+- **Developed an AI capable of navigation**, which was divided in two main parts: treasure finder and enemy castle finder, taking decisions based on the phase the player is currently in.
 - **Established a detailed logging system** for effective monitoring and debugging, allowing for the tracking of the application's behavior and the identification of issues using the SLF4J library.
 - **Implemented robust exception handling mechanisms** for both expected and unexpected scenarios (checked and unchecked exceptions), ensuring that the application can handle errors and continue to operate smoothly.
 - **Created a comprehensive suite of unit tests**, including parameterized, negative, and mock tests, to ensure the reliability and quality of the code.
-  
+
 <img width="1440" alt="Bildschirmfoto 2024-02-01 um 16 45 11" src="https://github.com/goge1221/Client-Server-Project/assets/75140192/ec230b20-bd5b-44df-a992-17ca81d43232">
 Example of game map
 #### **Phase 3: Server Side Development**
@@ -37,9 +38,9 @@ Example of game map
 - **Initiated server development with the primary goal of enforcing key business rules**, focusing on the implementation of the core logic and validation mechanisms to ensure players are playing according to predefined rules.
 - **Designed the server infrastructure to accommodate up to 999 concurrent game sessions**, emphasizing scalability and performance optimization to handle a high number of simultaneous or stability.
 - **Integrated RESTful communication protocols**, for sending and receiving of informations about the current game state as telling the players who has to act/wait or who lost/won.
-- **Exception handling mechanisms** for evaluating if the player broke rules and for ensuring an enhanced separation of responsabilities, implemented a base exception class from which different game rules inherit. If one of them was broken, report back to players and inform them what went wrong. 
+- **Exception handling mechanisms** for evaluating if the player broke rules and for ensuring an enhanced separation of responsabilities, implemented a base exception class from which different game rules inherit. If one of them was broken, report back to players and inform them what went wrong.
 
-#### Key takeaways and technologies used
+### Key takeaways and technologies used
 
 - **Used Spring Boot for easy communication and REST services**, making it simpler to talk between clients and the server, and to exchange data smoothly.
 - **Chose SLF4J for logging**, making it easier to keep track of what's happening in the application, help with fixing issues, and ensure it works well no matter where it's run.
