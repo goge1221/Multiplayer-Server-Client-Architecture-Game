@@ -20,12 +20,11 @@ The progression of the course project was methodically organized into three main
 #### **Phase 2: Client Side Development**
 
 - **Launched the client development phase**, using an online server provided by the teacher for testing all different requirements and the performance of our AI in different games (unique games).
-  - **Implemented a Command Line Interface (CLI)** to see the different stages the game is in like for e.g. generating phase, treasure finding phase, enemy base search phase as well as to provide a visual representation of the games map player moves. 
+- **Implemented a Command Line Interface (CLI)** to see the different stages the game is in like for e.g. generating phase, treasure finding phase, enemy base search phase as well as to provide a visual representation of the games map player moves.
 
-  ![416000890_864700935654987_2198489879840244406_n](https://github.com/goge1221/Client-Server-Project/assets/75140192/1ec149b5-ca20-4a9f-9cfc-ae58f26536d7)
-
-  Example of game map
-
+<div align="center">
+  <img src="https://github.com/goge1221/Client-Server-Project/assets/75140192/1ec149b5-ca20-4a9f-9cfc-ae58f26536d7" alt="Example of game map">
+</div>
 
 - **Integrated RESTful communication protocols**, for the sending and receiving of the map and players moves as well as game statuses, in combination with a Converter that translates the received messages into internal used structures.
 - **Formulated an algorithm for generating valid game maps** that meet different criterias such as terrain diversity, ensuring that each game map is unique and meets the game's requirements. The map was in fact a 2D game map using different coodrinates for all the fields.
@@ -35,7 +34,9 @@ The progression of the course project was methodically organized into three main
 - **Implemented robust exception handling mechanisms** for both expected and unexpected scenarios (checked and unchecked exceptions), ensuring that the application can handle errors and continue to operate smoothly.
 - **Created a comprehensive suite of unit tests**, including parameterized, negative, and mock tests, to ensure the reliability and quality of the code.
 
-<img width="1440" alt="Bildschirmfoto 2024-02-01 um 16 45 11" src="https://github.com/goge1221/Client-Server-Project/assets/75140192/ec230b20-bd5b-44df-a992-17ca81d43232">
+<div align="center">
+    <img width="1440" alt="Bildschirmfoto 2024-02-01 um 16 45 11" src="https://github.com/goge1221/Client-Server-Project/assets/75140192/ec230b20-bd5b-44df-a992-17ca81d43232">
+</div>
 
 #### **Phase 3: Server Side Development**
 
