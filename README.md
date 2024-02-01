@@ -1,4 +1,4 @@
-#### Game Idea
+## Game Idea
 
 The game is based on two AI clients competing to complete a task on a shared map, managed by a server in a client/server setup. Initially, a human starts a game, and then AIs take over, exchanging map halves to create the playing field. Each AI seeks to find its hidden treasure and the opponent's castle on the map, with the first to do so winning the game.
 
@@ -24,6 +24,7 @@ The progression of the course project was methodically organized into three main
   <img src="https://github.com/goge1221/Client-Server-Project/assets/75140192/1ec149b5-ca20-4a9f-9cfc-ae58f26536d7" alt="Example of game map">
   <br>Example of game map
 </div>
+
 
 
 - **Integrated RESTful communication protocols**, for the sending and receiving of the map and players moves as well as game statuses, in combination with a Converter that translates the received messages into internal used structures.
