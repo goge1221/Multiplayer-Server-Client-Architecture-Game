@@ -54,6 +54,7 @@ The progression of the course project was methodically organized into three main
 
 ### Key takeaways and technologies used
 
+- **Analyse description and make design decisions based on requirements** by creating sequence and class diagrams as well ass business rules and requirements analysis. 
 - **Used Spring Boot for easy communication and REST services**, making it simpler to talk between clients and the server, and to exchange data smoothly.
 - **Chose SLF4J for logging**, making it easier to keep track of what's happening in the application, help with fixing issues, and ensure it works well no matter where it's run.
 - **Made unit tests with mocking and handling exceptions**, to make sure the code is strong and works right even when unexpected things happen, by testing different situations.
