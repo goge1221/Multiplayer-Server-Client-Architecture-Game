@@ -1,5 +1,3 @@
-### Course Project Overview
-
 #### Game Idea
 
 The game is based on two AI clients competing to complete a task on a shared map, managed by a server in a client/server setup. Initially, a human starts a game, and then AIs take over, exchanging map halves to create the playing field. Each AI seeks to find its hidden treasure and the opponent's castle on the map, with the first to do so winning the game.
@@ -47,6 +45,11 @@ The progression of the course project was methodically organized into three main
 - **Designed the server infrastructure to accommodate up to 999 concurrent game sessions**, emphasizing scalability and performance optimization to handle a high number of simultaneous or stability.
 - **Integrated RESTful communication protocols**, for sending and receiving of informations about the current game state as telling the players who has to act/wait or who lost/won.
 - **Exception handling mechanisms** for evaluating if the player broke rules and for ensuring an enhanced separation of responsabilities, implemented a base exception class from which different game rules inherit. If one of them was broken, report back to players and inform them what went wrong.
+
+<div align="center">
+  <img width="1302" alt="Bildschirmfoto 2024-02-01 um 17 22 11" src="https://github.com/goge1221/Client-Server-Project/assets/75140192/dce8b979-407d-4131-94a8-0589c45795f6">
+  <br>Server class diagram
+</div>
 
 ### Key takeaways and technologies used
 
