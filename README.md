@@ -24,7 +24,9 @@ The progression of the course project was methodically organized into three main
 
 <div align="center">
   <img src="https://github.com/goge1221/Client-Server-Project/assets/75140192/1ec149b5-ca20-4a9f-9cfc-ae58f26536d7" alt="Example of game map">
+  <br>Example of game map
 </div>
+
 
 - **Integrated RESTful communication protocols**, for the sending and receiving of the map and players moves as well as game statuses, in combination with a Converter that translates the received messages into internal used structures.
 - **Formulated an algorithm for generating valid game maps** that meet different criterias such as terrain diversity, ensuring that each game map is unique and meets the game's requirements. The map was in fact a 2D game map using different coodrinates for all the fields.
@@ -36,6 +38,7 @@ The progression of the course project was methodically organized into three main
 
 <div align="center">
     <img width="1440" alt="Bildschirmfoto 2024-02-01 um 16 45 11" src="https://github.com/goge1221/Client-Server-Project/assets/75140192/ec230b20-bd5b-44df-a992-17ca81d43232">
+    <br>Client class diagram
 </div>
 
 #### **Phase 3: Server Side Development**
