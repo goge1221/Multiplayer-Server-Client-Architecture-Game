@@ -29,8 +29,9 @@ The progression of the course project was methodically organized into three main
 - **Established a detailed logging system** for effective monitoring and debugging, allowing for the tracking of the application's behavior and the identification of issues using the SLF4J library.
 - **Implemented robust exception handling mechanisms** for both expected and unexpected scenarios (checked and unchecked exceptions), ensuring that the application can handle errors and continue to operate smoothly.
 - **Created a comprehensive suite of unit tests**, including parameterized, negative, and mock tests, to ensure the reliability and quality of the code.
+  
 <img width="1440" alt="Bildschirmfoto 2024-02-01 um 16 45 11" src="https://github.com/goge1221/Client-Server-Project/assets/75140192/ec230b20-bd5b-44df-a992-17ca81d43232">
-
+Example of game map
 #### **Phase 3: Server Side Development**
 
 - **Initiated server development with the primary goal of enforcing key business rules**, focusing on the implementation of the core logic and validation mechanisms to ensure players are playing according to predefined rules.
