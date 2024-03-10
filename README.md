@@ -8,14 +8,14 @@ The game is turn-based with a maximum of 320 actions or 10 minutes. Non-complian
 
 The progression of the course project was methodically organized into three main phases, each representing different aspects in developement:
 
-#### **Phase 1: Conceptualization & Architectural Design**
+## **Phase 1: Conceptualization & Architectural Design**
 
 - **Exploration and understanding of the project's scope**, analyzing the game requirements to ensure a clear understanding of what needs to be achieved.
 - **Create a detailed documentation of the requirements**, which includes specifying 3 functional and 3 non-functional requirements, as well as outlining a key design choice and business rules to guide me trough the development process.
 - **Reviewed existing network protocols**, with a special focus on XML message formats, to ensure compatibility and efficiency in data interchange between client and server.
 - **Developed architectural plans for both client and server components**, creating comprehensive class and sequence diagrams to visually represent the system's structure and interaction flows.
 
-#### **Phase 2: Client Side Development**
+## **Phase 2: Client Side Development**
 
 - **Launched the client development phase**, using an online server provided by the teacher for testing all different requirements and the performance of our AI in different games (unique games).
 - **Implemented a Command Line Interface (CLI)** to see the different stages the game is in like for e.g. generating phase, treasure finding phase, enemy base search phase as well as to provide a visual representation of the games map player moves.
@@ -40,7 +40,7 @@ The progression of the course project was methodically organized into three main
     <br>Client class diagram
 </div>
 
-#### **Phase 3: Server Side Development**
+## **Phase 3: Server Side Development**
 
 - **Initiated server development with the primary goal of enforcing key business rules**, focusing on the implementation of the core logic and validation mechanisms to ensure players are playing according to predefined rules.
 - **Designed the server infrastructure to accommodate up to 999 concurrent game sessions**, emphasizing scalability and performance optimization to handle a high number of simultaneous or stability.
